@@ -1,8 +1,3 @@
-Here is a **brief, clean, submission-ready README** for **Lab 3**.
-You can paste this directly into a `README.md` file.
-
----
-
 # 📘 DCIT 403 – Lab 3
 
 ## Goals, Events, and Reactive Behavior
@@ -69,11 +64,14 @@ python run_lab3.py
 
 Expected output includes FSM state transitions such as:
 
-
+```
 [STATE] IDLE
 [STATE] ASSESS
 [STATE] RESCUE
 Rescue completed.
+```
+
+---
 
 ## ⚙️ Environment Notes
 
@@ -81,7 +79,7 @@ Rescue completed.
 * This is acceptable for Lab 3 since communication is introduced in later labs.
 * The focus is strictly on **goals, events, and reactive behavior**.
 
-
+---
 
 ## ✅ Learning Outcomes
 
@@ -92,15 +90,13 @@ By completing this lab, students demonstrate:
 * FSM-based control in intelligent agents
 * Practical understanding of agent autonomy
 
-
+---
 
 ## 📎 Author
 
-**Denis Bagresolzu bayor**
+**Denis Bagresolzu Bayor**
 Department of Computer Science
 University of Ghana
-
-
 
 
 
